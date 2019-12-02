@@ -1,3 +1,6 @@
+/**
+ * @supported 8E5B14F73C92
+ */
 let url = 'https://pixiv.mlyx.workers.dev/?api=pixiv'
 //DO NOT ABUSE
 
